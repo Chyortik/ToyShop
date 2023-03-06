@@ -2,3 +2,4 @@ Toys [id=3, name=Матрёшка, weight=40.0]
 Toys [id=1, name=Машинка, weight=30.0]
 Toys [id=2, name=Робот, weight=5.0]
 Toys [id=0, name=Кукла, weight=25.0]
+
